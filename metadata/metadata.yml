@@ -1,0 +1,19 @@
+metadata_version: 1
+name: Sparsity Within and Across Overlapping Groups
+description: Recently, penalties promoting signals that are sparse within and across
+  groups have been proposed. This software demonstrates the use of a generalized penalty
+  function, that is more flexible in defining groups, in a simple inverse problem
+  formulation. Specifically, the software reproduces the experiment in the associated
+  article below.
+tags:
+- sparse-regularization
+- structured-sparsity
+- overlapping-groups
+- elitist-lasso
+authors:
+- name: Ilker Bayram
+  affiliations:
+  - name: Istanbul Technical University
+corresponding_contributor:
+  name: Ilker Bayram
+  email: ibayram@itu.edu.tr
